@@ -1,0 +1,14 @@
+System Performance Report
+-------------------------
+CPU Usage: 16.7%
+Memory Usage: Total: 957MB, Used: 353MB, Free: 206MB
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  2.4G  4.4G  36% /
+Top 5 CPU-consuming processes:
+    PID COMMAND         %CPU
+   1771 snapd            0.2
+      1 systemd          0.1
+    521 containerd       0.0
+    513 amazon-ssm-agen  0.0
+    890 dockerd          0.0

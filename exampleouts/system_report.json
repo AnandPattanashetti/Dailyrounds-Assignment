@@ -1,0 +1,18 @@
+{
+    "cpu_usage": "100",
+    "memory": {
+      "total": "957",
+      "used": "353",
+      "free": "207"
+    },
+    "disk_usage": [
+      {"filesystem": "/dev/root", "used": "2.4G", "available": "4.4G", "usage": "36%"},
+    ],
+    "top_processes": [
+      {"pid": "1771", "name": "snapd", "cpu": "1.7"},
+      {"pid": "1", "name": "systemd", "cpu": "0.2"},
+      {"pid": "521", "name": "containerd", "cpu": "0.0"},
+      {"pid": "513", "name": "amazon-ssm-agen", "cpu": "0.0"},
+      {"pid": "890", "name": "dockerd", "cpu": "0.0"},
+    ]
+  }

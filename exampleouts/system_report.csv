@@ -1,0 +1,10 @@
+CPU Usage,Memory Total,Memory Used,Memory Free
+100%,957MB,353MB,207MB
+Filesystem,Used,Available,Usage
+/dev/root,2.4G,4.4G,36%
+PID,Command,CPU%
+1771,snapd,0.7
+1,systemd,0.2
+521,containerd,0.0
+513,amazon-ssm-agen,0.0
+890,dockerd,0.0
