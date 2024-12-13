@@ -34,9 +34,10 @@ The script retrieves and displays:
 - Real-time monitoring with a visualized CLI graph using the `watch` command.
 
 ---
+## Output Screenshots
+![cluster created](https://github.com/AnandPattanashetti/cloud-devops-task/blob/main/Screenshot%20(722).png)
 
 ## **Usage**
-
 ### **Step 1: Clone the Repository**
 ```bash
 - Step1: git clone https://github.com/AnandPattanashetti/Dailyrounds-Assignment.git
@@ -51,10 +52,3 @@ The script retrieves and displays:
 
 - step 6: watch -n 2 ./system-monitor.sh --format text
 ---
-
-
-
-
-
-
-
