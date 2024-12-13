@@ -38,6 +38,7 @@ The script retrieves and displays:
 ![Output](https://github.com/AnandPattanashetti/Dailyrounds-Assignment/blob/main/Screenshot%20(751).png)
 ![output](https://github.com/AnandPattanashetti/Dailyrounds-Assignment/blob/main/Screenshot%20(752).png)
 ![output](https://github.com/AnandPattanashetti/Dailyrounds-Assignment/blob/main/Screenshot%20(753).png)
+![output](https://github.com/AnandPattanashetti/Dailyrounds-Assignment/blob/main/Screenshot%20(758).png)
 
 ## **Usage**
 ### **Step 1: Clone the Repository**
