@@ -2,7 +2,7 @@
 
 # **Monitoring System Script**
 
-A Bash script to monitor system performance and generate customizable reports. This script meets the assignment requirements for system information collection, alerting, and custom reporting. It is designed for educational and practical purposes.
+A Bash script to monitor system performance and generate customizable reports. This script meets the assignment requirements for system information collection, alerting, and custom reporting.
 
 ---
 
