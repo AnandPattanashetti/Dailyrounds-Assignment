@@ -54,4 +54,3 @@ The script retrieves and displays:
 - step 5:./system-monitor.sh --interval 10 --format CSV --output report.csv
 
 - step 6: watch -n 2 ./system-monitor.sh --format text
----
